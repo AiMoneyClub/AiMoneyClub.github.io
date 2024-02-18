@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>系统设计 on Troy的网络博客</title>
+    <link>https://wangcy6.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 系统设计 on Troy的网络博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wangcy6.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gperftools</title>
+      <link>https://wangcy6.github.io/post/2022/6-tool-gperftools/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangcy6.github.io/post/2022/6-tool-gperftools/</guid>
+      <description>青铜提问1/100：如何用emacs搭建c++开发环境？ 学习别人的思路： https://www.zhihu.com/question/51099641 https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/ https://www.cnblogs.com/flyingdirt/p/3399624.html https://github.com/purcell/emacs.d{web} https://www.cnblogs.com/GarfieldEr007/p/5588979.html https://www.zybuluo.com/qqiseeu/note/17692 小马过河： todo1 我应一开始就照抄 世界级大师 Steve Purcell 的 Emacs 配置. 安心</description>
+    </item>
+    
+    <item>
+      <title>python学习记录</title>
+      <link>https://wangcy6.github.io/post/2022/4_study_python/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangcy6.github.io/post/2022/4_study_python/</guid>
+      <description>day1 环境搭建： window： 删除 Microsoft Store 安装python(无法删除 30分钟) 直接删除环境变量：%USERPROFILE%\AppData\Loca</description>
+    </item>
+    
+    <item>
+      <title>视频管理平台</title>
+      <link>https://wangcy6.github.io/post/2022/2022-2-7-go-vue-mp4/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangcy6.github.io/post/2022/2022-2-7-go-vue-mp4/</guid>
+      <description>http://127.0.0.1:1313/post/2022/2022-2-7-go-vue-mp4/ todo 7 srs推流转码 云SRS是开源的音视频方案，它组合了SRS、FFmpeg、WebRTC，使用Redis、Nodejs和React来实现必</description>
+    </item>
+    
+  </channel>
+</rss>
